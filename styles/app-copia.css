@@ -15,6 +15,11 @@
   /* Tipografía */
   --tipo-principal: 'Inconsolata', monospace;
   --tipo-secundaria: 'Roboto', sans-serif;
+
+  /* Colors */
+  --white--principal-color: #ffffff;
+  --black--secondary-color: #000000;
+
 }
 
 /* Las adaptamos al modo oscuro */
@@ -35,6 +40,11 @@
     transition: none !important;
   }
 }
+
+html {
+  font-size: 62.5%;
+}
+
 /* Reseteamos los margin y paddings de todas las etiquetas */
 * {
   margin: 0;
