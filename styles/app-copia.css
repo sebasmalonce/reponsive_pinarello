@@ -11,15 +11,10 @@
 */
 /* Aquí definimos las Custom properties */
 :root {
-  --negro: #ffffff;
+  --blanco: #ffffff;
   /* Tipografía */
   --tipo-principal: 'Inconsolata', monospace;
   --tipo-secundaria: 'Roboto', sans-serif;
-
-  /* Colors */
-  --white--principal-color: #ffffff;
-  --black--secondary-color: #000000;
-
 }
 
 /* Las adaptamos al modo oscuro */
