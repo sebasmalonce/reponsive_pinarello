@@ -80,7 +80,11 @@
 /* Main */
 .main {}
 
-.main__section {}
+.main__picture--main {}
+
+.picture__img--main {}
+
+.main__section--main {}
 
 .section__ul--main {}
 
